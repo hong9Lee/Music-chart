@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/Users/ihong-gyu/Desktop/repository/Node/MusicChart/logs/warn/.33b787ebc169f718f6d8dd90ebc0398a79167f6a-audit.json",
+    "files": [
+        {
+            "date": 1657203853952,
+            "name": "/Users/ihong-gyu/Desktop/repository/Node/MusicChart/logs/warn/2022-07-07.warn.log",
+            "hash": "3329109d387a3553426b614f57da28e3b9086311b189d64e76d9397f32428c19"
+        }
+    ],
+    "hashType": "sha256"
+}

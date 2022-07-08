@@ -1,0 +1,11 @@
+2022-07-07 23:28:22 error: => [BULK_CREATE] ERROR !! => Error: error!!!
+2022-07-07 23:28:49 error: => [BULK_CREATE] ERROR !! => Error: error!!!
+2022-07-07 23:29:06 error: => [BULK_CREATE] ERROR !! => Error: error!!!
+2022-07-07 23:30:08 error: => [BULK_CREATE] ERROR !! => Error: error!!!
+2022-07-07 23:31:15 error: => [scheduleJob] Error !! => Error: net::ERR_NETWORK_CHANGED at https://vibe.naver.com/chart/total
+2022-07-07 23:32:27 error: => [BULK_CREATE] ERROR !! => Error: error!!!
+2022-07-07 23:33:18 error: => [scheduleJob] Error !! => Error: error!!!
+2022-07-07 23:34:05 error: => [DESTROY DATA] ERROR !! => Error: error!!!
+2022-07-07 23:34:50 error: => [DESTROY DATA] ERROR !! => Error: error!!!
+2022-07-07 23:34:54 error: => [BULK_CREATE] ERROR !! => Error: rollback has been called on this transaction(5ca041a7-16ff-4bc4-9977-b9de854c1700), you can no longer use it. (The rejected query is attached as the 'sql' property of this error)
+2022-07-07 23:36:10 error: => [scheduleJob] Error !! => ReferenceError: transaction1 is not defined

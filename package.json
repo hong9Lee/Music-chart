@@ -1,0 +1,34 @@
+{
+  "name": "musicchart",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node bin/bin.js",
+    "test": "mocha"
+  },
+  "dependencies": {
+    "app-root-path": "^3.0.0",
+    "assert": "^2.0.0",
+    "chai": "^4.3.6",
+    "cheerio": "^1.0.0-rc.10",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "expect": "^28.1.1",
+    "express": "^4.16.4",
+    "http-errors": "~1.6.3",
+    "jade": "~1.11.0",
+    "mocha": "^8.4.0",
+    "morgan": "~1.9.1",
+    "mysql2": "^2.3.3",
+    "node-fetch": "^3.2.3",
+    "node-schedule": "^2.1.0",
+    "process": "^0.11.10",
+    "puppeteer": "^13.5.2",
+    "redis": "^4.0.6",
+    "request": "^2.88.2",
+    "sequelize": "^6.21.2",
+    "sequelize-cli": "^6.4.1",
+    "winston": "^3.8.1",
+    "winston-daily-rotate-file": "^4.7.1"
+  }
+}
