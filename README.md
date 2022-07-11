@@ -25,7 +25,7 @@ lists.each((index, list) => {
 });
 ```
 
-## 2. node-schedule 모듈을 사용해 Batch insert
+## 2. node-schedule 모듈, sequelize bulkCreate 사용해 Insert 작업 
 ```
 schedule.scheduleJob('1 30 * * * *', async () => { // 1시간에 한번씩 수집
   await models.MusicList.bulkCreate((scrapData), {
